@@ -4,6 +4,7 @@
 
 ``` python3 
 # Minha apresentação
+        
 informacoes_gerais = {
 "nomes": ["Rudiney Pereira Liemes", "Rudi"],
 "interesses": ["Desenvolvimento", "Jogos Digitais", "webdesign"],
