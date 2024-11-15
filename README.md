@@ -8,16 +8,15 @@
 informacoes_gerais = {
 "nomes": ["Rudiney Pereira Liemes", "Rudi"],
 "interesses": ["Desenvolvimento", "Jogos Digitais", "webdesign"],
-"linguagens": ["C#", "Node.js", "JavaScript", "TypeScript",
-"tecnologias": ["Vue", "React", "jQuery", "Webpack", "PlayCanvas", "HTML", "CSS"],
+"linguagens": ["Java", "Node.js", "JavaScript", "TypeScript",
+"tecnologias": ["React", "jQuery", "Webpack","PostgreSQL", "AWS", "Azure", "Jest"],
 "ocupacoes": {
         "estudante": "Analise e Desenvolvimento de Sistemas na ESTACIO",
         "trabalho": "Analista de software",
         "hobbies": [
             "Ando de Skate", 
             "Amo Passeios em família", 
-            "jogar um bom futebol", 
-            "Apreciador do canal da Marco Bruno"
+            "jogar um bom futebol"
         ]
     },
 "pets": {"gato": "minhau", "cachorro": "mogli"},
